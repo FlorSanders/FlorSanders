@@ -1,6 +1,6 @@
 Hi 👋! My name is Flor Sanders.
 
-I am a 22 year old electrical engineering student at Ghent University. 
+I am an electrical engineering student at Ghent University. 
 Additionally, I freelance part time as a developer and IT consultant.
 Broadly, my interests range from scientific programming applications to machine learning and decentralized web technologies.
 
