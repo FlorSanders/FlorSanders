@@ -4,7 +4,7 @@ I am an electrical engineering student at Ghent University.
 Additionally, I freelance part time as a developer and IT consultant.
 Broadly, my interests range from scientific programming applications to machine learning and decentralized web technologies.
 
-The easiest way to reach me is through my [website](https://florsanders.be/). 📫
+The easiest way to reach me is through my [website](https://www.florsanders.be/). 📫
 
 <!---
 FlorSanders/FlorSanders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
