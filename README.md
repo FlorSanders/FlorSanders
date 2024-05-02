@@ -1,8 +1,11 @@
 Hi 👋! My name is Flor Sanders.
 
-I am an electrical engineering student at Columbia University. 
-Additionally, I freelance part time as an engineering consultant.
-Broadly, my interests range from scientific programming applications to machine learning and decentralized web technologies.
+Ever since I was young, I've had a fascination with science and
+technology. I found my passion in the fields of computer science and
+electrical engineering, which I have pursued in my academic studies
+at Ghent University and Columbia University. Today, I am committed
+to leveraging cutting-edge technologies to create positive impact in
+our world.
 
 The easiest way to reach me is through my [website](https://www.florsanders.be/). 📫
 
